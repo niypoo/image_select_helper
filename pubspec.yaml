@@ -1,0 +1,21 @@
+name: image_select_helper
+description: A new Flutter module project.
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  image_picker: ^1.0.1
+  permission_handler: ^10.2.0
+  # get: ^4.6.5
+  bottom_sheet_helper:
+    git: https://github.com/niypoo/bottom_sheet_helper.git
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
