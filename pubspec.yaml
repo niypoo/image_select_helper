@@ -13,7 +13,8 @@ dependencies:
   permission_handler: ^10.2.0
   # get: ^4.6.5
   bottom_sheet_helper:
-    git: https://github.com/niypoo/bottom_sheet_helper.git
+    git:
+      url: https://github.com/niypoo/bottom_sheet_helper.git
 
 dev_dependencies:
   flutter_test:
