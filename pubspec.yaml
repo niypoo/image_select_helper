@@ -14,7 +14,7 @@ dependencies:
   # get: ^4.6.5
   bottom_sheet_helper:
     git:
-      url: https://github.com/niypoo/bottom_sheet_helper.git
+      url: git@github.com:niypoo/bottom_sheet_helper.git
 
 dev_dependencies:
   flutter_test:
