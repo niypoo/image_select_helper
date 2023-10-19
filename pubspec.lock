@@ -23,7 +23,7 @@ packages:
       path: "."
       ref: HEAD
       resolved-ref: aef4dbcf3efc234d29b09c773fa122f7dde5416b
-      url: " git@github.com:niypoo/app_configuration_service.git"
+      url: "git@github.com:niypoo/app_configuration_service.git"
     source: git
     version: "1.0.0+1"
   args:
@@ -71,7 +71,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "19e67d737722c9fdb2891d6a1678ca520f618a80"
+      resolved-ref: d87c708b22403d29b78af6586a92bf875fbef527
       url: "git@github.com:niypoo/bottom_sheet_helper.git"
     source: git
     version: "1.0.0+1"
@@ -335,8 +335,8 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "6d7c8d8c1f4671c1b78f232f7074e901ed74f5a6"
-      url: " git@github.com:niypoo/fly_ui.git"
+      resolved-ref: e792fa34eafe9e6ba64bc9ca54143fde092b3668
+      url: "git@github.com:niypoo/fly_ui.git"
     source: git
     version: "1.0.0+1"
   get:
@@ -457,7 +457,7 @@ packages:
       path: "."
       ref: HEAD
       resolved-ref: "40d3f357947ebce684e3fdca4b0c9d35c417a9ff"
-      url: " git@github.com:niypoo/loading_service.git"
+      url: "git@github.com:niypoo/loading_service.git"
     source: git
     version: "1.0.0+1"
   matcher:
